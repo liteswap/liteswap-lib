@@ -1,4 +1,4 @@
-# uniswap-lib
+# liteswap-lib
 
 [![Tests](https://github.com/Uniswap/uniswap-lib/workflows/Tests/badge.svg)](https://github.com/Uniswap/uniswap-lib/actions?query=workflow%3ATests)
 [![Static Analysis](https://github.com/Uniswap/uniswap-lib/workflows/Static%20Analysis/badge.svg)](https://github.com/Uniswap/uniswap-lib/actions?query=workflow%3A%22Static+Analysis%22)
